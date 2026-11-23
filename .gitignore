@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+.openai/hosting.json
+dist/server/
+dist/.openai/
+.wrangler/
+qa/
+*.log
+.DS_Store

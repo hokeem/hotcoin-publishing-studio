@@ -1,0 +1,13 @@
+{
+  "name": "hotcoin-publishing-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hotcoin multilingual content creation and Publer publishing workbench",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "build": "node worker/build.mjs",
+    "test": "node tests/studio-dual-audit.cjs && node tests/studio-workflow.cjs && node tests/schedule-confirmation.cjs"
+  }
+}

@@ -1,0 +1,1 @@
+CREATE TABLE regional_review_queue (id TEXT PRIMARY KEY NOT NULL, locale TEXT NOT NULL, content_type TEXT NOT NULL, category TEXT NOT NULL, due_at TEXT, state TEXT NOT NULL, caption TEXT NOT NULL, asset_key TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL, result_json TEXT);

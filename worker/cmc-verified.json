@@ -1,0 +1,26 @@
+{
+  "BITO": {
+    "page": "https://coinmarketcap.com/currencies/proshares-bitcoin-etf-derivatives/",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/40913.png"
+  },
+  "IGV": {
+    "page": "https://coinmarketcap.com/currencies/ishares-expanded-tech-software-etf-derivatives/",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/42877.png"
+  },
+  "ARTY": {
+    "page": "https://coinmarketcap.com/currencies/ishares-future-ai-tech-etf-derivatives/",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/42878.png"
+  },
+  "CCJ": {
+    "page": "https://coinmarketcap.com/currencies/cameco-corp-derivatives/",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/42881.png"
+  },
+  "ETN": {
+    "page": "https://coinmarketcap.com/currencies/eaton-corporation-plc-derivatives/",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/42880.png"
+  },
+  "NEM": {
+    "page": "https://coinmarketcap.com/real-world-assets/newmont-corporation/",
+    "image": "https://s2.coinmarketcap.com/static/img/rwa/64x64/6a3353673e374d5372a7fd98.png"
+  }
+}
